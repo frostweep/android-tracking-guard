@@ -1,0 +1,35 @@
+Default Native:
+/data/data/com.android.browser/databases/browser2.db
+table: history
+column: url = 2
+column: date = 4
+
+Chrome:
+/data/data/com.android.chrome/app_chrome/Default/History
+table: urls
+column: url = 1
+column: last_visit_time = 5
+
+Opera:
+/data/data/com.opera.browser/app_opera/History
+table: urls
+column: url = 1
+column: last_visit_time = 5
+
+Opera mini:
+/data/data/com.opera.mini.native/app_opera/History
+table: urls
+column: url = 1
+column: last_visit_time = 5
+
+Firefox:
+/data/data/org.mozilla.firefox/files/mozilla/*.default/browser.db
+table: history
+column: url = 2
+column: date = 7
+
+Yandex:
+/data/data/com.yandex.browser/app_chromium/Default/History
+table: urls
+column: url = 1
+column: last_visit_time = 5

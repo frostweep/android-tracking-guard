@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Family Guard</string>
+    <integer name="com_vk_sdk_AppId">6436059</integer>
+</resources>
