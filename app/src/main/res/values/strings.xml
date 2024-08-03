@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Family Guard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Family Guard</string>
+    <string name="nav_header_subtitle">test@test.com</string>
+    <string name="nav_header_desc">Меню</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="alarm_widget_name">Family Guard Alarm</string>
+    <string name="profile_title">Профиль</string>
+    <string name="custom_description">description</string>
+</resources>
